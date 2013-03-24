@@ -1,0 +1,12 @@
+@import "css/meyer-reset.css";
+
+
+/* page */
+
+.canvas {
+    border: 1px solid gray;
+}
+
+.hidden {
+  display: none;
+};
